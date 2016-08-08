@@ -1,0 +1,21 @@
+{
+  "name": "hellokraken",
+  "description": "HelloKraken",
+  "main": "index.js",
+  "author": "jhancock1975@gmail.com",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}

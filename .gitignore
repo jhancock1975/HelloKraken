@@ -1,0 +1,7 @@
+*.tar.gz
+*.tgz
+*.log
+*.swp
+node_modules
+bower_components
+.project
