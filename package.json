@@ -23,6 +23,7 @@
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-env" : "*",
+    "grunt-nodemon" : "*",    
     "grunt-cli": "^0.1.13",
     "grunt-config-dir": "^0.3.2",
     "grunt-contrib-clean": "^0.6.0",
